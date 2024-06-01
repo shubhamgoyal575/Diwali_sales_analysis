@@ -1,4 +1,4 @@
-### Diwali_sales_analysis
+### Diwali_sales_analysis(Python)
 
 **Data Cleaning and Manipulation**
 In this step, the dataset is cleaned and manipulated to ensure it is suitable for analysis. The following actions are performed:
